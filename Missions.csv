@@ -1,0 +1,15 @@
+MISSION_ID,DESCRIPTION,TYPE,COMMANDER_IIN,STATUS
+1,ground attack on the territory of the enemy group in Albania,Offensive Operations,970414675684,ON PROCESS
+2,Infiltrate theknown terrorist stronghold in Almaty and destroy,Counterterrorism,870319037473,ON PROCESS
+3,Place troops in the conflict zone between Turkey and Greece to monitor and ensure the safety of people,Peacekeeping,821003508215,ON PROCESS
+4,Conduct a cyber operation to disable enemy communications networks,Cyber Warfare,820216530446,ON PROCESS
+5,Defend a key military objective from an enemy group,Defensive Operations,780506391022, ON PROCESS
+6,Infiltrate insurgent-held territories to gather intelligence and strike against insurgent  leaders,Special Operations - Counterinsurgency,860916132767,ON PROCESS
+7,"Provide emergency medical assistance,food, and shelter to civilians affected by a natural disaster",Humanitarian Assistance and Disaster Relief (HADR),040807085550,ON PROCESS
+8,Conduct aerial and ground reconnaissance to gather critical information on enemy troop movements,Surveillance and Reconnaissance,760528485214,ON PROCESS
+9,Train and advise local security forces in a partner nation,Training and Advisory,900917565424,ON PROCESS
+10, Jam enemy communication systems and disrupt radar capabilities to degrade their ability to coordinate,Offensive Electronic Warfare,830226159286,ON PROCESS
+11,Conduct a evacuation operation to safely evacuate civilians from a region facing imminent danger,Evacuation Operations,970224925765,SUCCESS
+12,Conduct precision airstrikes on enemy supply lines and logistical hubs,Air Interdiction,850407909495,SUCCESS
+13,Coordinate the rapid deployment of military personnel and equipment to a remote location,Logistical Support,030906017388,SUCCESS
+14,Conduct a show of force through large-scale military exercises to  showcase military capabilities,Strategic Deterrence,951110517913,SUCCESS

@@ -1,0 +1,351 @@
+,Vechicle_ID,Vechicle_Name,Vechicle_Type,Production_Year,Made_In,STATUS
+0,1,Fighter Jet,AIR,1987,Spain,FREE
+1,2,Fighter Jet,AIR,1997,United States,FREE
+2,3,Helicopter,AIR,1988,Brazil,FREE
+3,4,Drone,AIR,2010,China,FREE
+4,5,Helicopter,AIR,2001,India,FREE
+5,6,Fighter Jet,AIR,1988,Mexico,FREE
+6,7,Helicopter,AIR,2015,Australia,FREE
+7,8,Stealth Bomber,AIR,2002,Spain,FREE
+8,9,Helicopter,AIR,1995,South Korea,FREE
+9,10,Fighter Jet,AIR,1991,United States,FREE
+10,11,Blimp,AIR,1996,Japan,FREE
+11,12,Fighter Jet,AIR,2019,South Korea,FREE
+12,13,Stealth Bomber,AIR,2008,China,FREE
+13,14,Cargo Plane,AIR,1984,France,ON MISSION
+14,15,Blimp,AIR,2005,United States,FREE
+15,16,Blimp,AIR,2003,Spain,FREE
+16,17,Drone,AIR,2003,Spain,FREE
+17,18,Drone,AIR,1984,China,FREE
+18,19,Stealth Bomber,AIR,2007,Japan,ON MISSION
+19,20,Fighter Jet,AIR,1987,Canada,FREE
+20,21,Cargo Plane,AIR,1998,Canada,FREE
+21,22,Drone,AIR,2020,United States,FREE
+22,23,Helicopter,AIR,1996,France,FREE
+23,24,Cargo Plane,AIR,2011,Indonesia,FREE
+24,25,Stealth Bomber,AIR,2017,Italy,ON MISSION
+25,26,Drone,AIR,2012,United Kingdom,FREE
+26,27,Blimp,AIR,2006,China,FREE
+27,28,Blimp,AIR,1985,Germany,FREE
+28,29,Fighter Jet,AIR,2005,China,ON MISSION
+29,30,Cargo Plane,AIR,1981,United States,FREE
+30,31,Blimp,AIR,2014,Spain,FREE
+31,32,Drone,AIR,2011,South Korea,FREE
+32,33,Helicopter,AIR,2017,France,FREE
+33,34,Cargo Plane,AIR,1995,Italy,FREE
+34,35,Stealth Bomber,AIR,1981,South Korea,FREE
+35,36,Cargo Plane,AIR,2012,United States,FREE
+36,37,Cargo Plane,AIR,2014,United Kingdom,FREE
+37,38,Stealth Bomber,AIR,2001,United States,FREE
+38,39,Blimp,AIR,1999,Australia,FREE
+39,40,Cargo Plane,AIR,1989,France,FREE
+40,41,Cargo Plane,AIR,2014,Italy,FREE
+41,42,Helicopter,AIR,2019,Brazil,ON MISSION
+42,43,Helicopter,AIR,1988,United States,FREE
+43,44,Fighter Jet,AIR,2020,Germany,FREE
+44,45,Stealth Bomber,AIR,2010,Canada,FREE
+45,46,Stealth Bomber,AIR,2002,Australia,FREE
+46,47,Helicopter,AIR,1991,France,FREE
+47,48,Cargo Plane,AIR,1984,United States,FREE
+48,49,Blimp,AIR,2017,Australia,FREE
+49,50,Drone,AIR,1986,United Kingdom,FREE
+50,51,Frigate,NAVI,2006,France,ON MISSION
+51,52,Destroyer,NAVI,2003,France,FREE
+52,53,Patrol Boat,NAVI,1990,Japan,FREE
+53,54,Patrol Boat,NAVI,1982,Italy,FREE
+54,55,Destroyer,NAVI,1981,Japan,FREE
+55,56,Aircraft Carrier,NAVI,1992,Japan,FREE
+56,57,Submarine,NAVI,1984,United Kingdom,FREE
+57,58,Aircraft Carrier,NAVI,1984,United Kingdom,FREE
+58,59,Destroyer,NAVI,2012,United States,FREE
+59,60,Hovercraft,NAVI,2018,Mexico,FREE
+60,61,Hovercraft,NAVI,1990,Spain,FREE
+61,62,Aircraft Carrier,NAVI,1988,Australia,FREE
+62,63,Aircraft Carrier,NAVI,2011,France,FREE
+63,64,Aircraft Carrier,NAVI,2000,Canada,FREE
+64,65,Submarine,NAVI,1982,China,FREE
+65,66,Hovercraft,NAVI,2016,Spain,FREE
+66,67,Submarine,NAVI,1997,Italy,FREE
+67,68,Patrol Boat,NAVI,1990,Australia,FREE
+68,69,Patrol Boat,NAVI,1993,United Kingdom,FREE
+69,70,Aircraft Carrier,NAVI,2019,Germany,FREE
+70,71,Hovercraft,NAVI,2016,Spain,FREE
+71,72,Submarine,NAVI,2009,France,FREE
+72,73,Aircraft Carrier,NAVI,2007,Canada,FREE
+73,74,Frigate,NAVI,1992,France,FREE
+74,75,Submarine,NAVI,2004,China,FREE
+75,76,Submarine,NAVI,2017,South Korea,FREE
+76,77,Submarine,NAVI,2014,United States,FREE
+77,78,Hovercraft,NAVI,1995,France,FREE
+78,79,Frigate,NAVI,1987,Germany,FREE
+79,80,Hovercraft,NAVI,1999,United States,FREE
+80,81,Destroyer,NAVI,1996,Indonesia,FREE
+81,82,Destroyer,NAVI,2014,Brazil,FREE
+82,83,Submarine,NAVI,1990,France,FREE
+83,84,Destroyer,NAVI,1995,Mexico,FREE
+84,85,Hovercraft,NAVI,1994,Mexico,FREE
+85,86,Destroyer,NAVI,1986,Japan,FREE
+86,87,Aircraft Carrier,NAVI,1992,Brazil,FREE
+87,88,Hovercraft,NAVI,1988,France,FREE
+88,89,Destroyer,NAVI,2011,Italy,FREE
+89,90,Submarine,NAVI,1998,China,ON MISSION
+90,91,Aircraft Carrier,NAVI,1990,Indonesia,FREE
+91,92,Hovercraft,NAVI,2011,China,FREE
+92,93,Aircraft Carrier,NAVI,2007,Germany,FREE
+93,94,Frigate,NAVI,2008,India,ON MISSION
+94,95,Aircraft Carrier,NAVI,2001,Mexico,FREE
+95,96,Hovercraft,NAVI,1995,Germany,FREE
+96,97,Frigate,NAVI,1985,United States,FREE
+97,98,Aircraft Carrier,NAVI,1984,France,FREE
+98,99,Patrol Boat,NAVI,1986,India,FREE
+99,100,Frigate,NAVI,2007,Italy,ON MISSION
+100,101,Submarine,NAVI,2018,Japan,FREE
+101,102,Frigate,NAVI,1982,China,FREE
+102,103,Frigate,NAVI,1985,Brazil,FREE
+103,104,Aircraft Carrier,NAVI,2004,South Korea,FREE
+104,105,Hovercraft,NAVI,2012,Mexico,FREE
+105,106,Hovercraft,NAVI,2015,India,FREE
+106,107,Aircraft Carrier,NAVI,1990,Brazil,FREE
+107,108,Frigate,NAVI,1990,Spain,ON MISSION
+108,109,Hovercraft,NAVI,2008,Spain,FREE
+109,110,Destroyer,NAVI,2017,Germany,FREE
+110,111,Submarine,NAVI,1982,Germany,FREE
+111,112,Aircraft Carrier,NAVI,2007,South Korea,FREE
+112,113,Hovercraft,NAVI,2020,United States,FREE
+113,114,Submarine,NAVI,1989,Spain,FREE
+114,115,Hovercraft,NAVI,2005,Canada,ON MISSION
+115,116,Destroyer,NAVI,2016,Brazil,FREE
+116,117,Aircraft Carrier,NAVI,2015,Spain,FREE
+117,118,Aircraft Carrier,NAVI,2004,Canada,FREE
+118,119,Submarine,NAVI,1997,Japan,FREE
+119,120,Frigate,NAVI,2005,South Korea,FREE
+120,121,Motorcycle,LAND,2002,Mexico,FREE
+121,122,Armored Personnel Carrier,LAND,2020,Japan,FREE
+122,123,Motorcycle,LAND,1996,Spain,FREE
+123,124,ATV (All-Terrain Vehicle),LAND,1989,Brazil,FREE
+124,125,APC (Armored Fighting Vehicle),LAND,1987,Germany,FREE
+125,126,Humvee,LAND,2003,India,FREE
+126,127,Tank,LAND,2002,Australia,FREE
+127,128,Tank,LAND,1991,France,FREE
+128,129,Humvee,LAND,2017,Indonesia,FREE
+129,130,ATV (All-Terrain Vehicle),LAND,1980,United States,FREE
+130,131,Jeep,LAND,2014,Canada,FREE
+131,132,APC (Armored Fighting Vehicle),LAND,1989,South Korea,FREE
+132,133,Tank,LAND,1988,South Korea,FREE
+133,134,ATV (All-Terrain Vehicle),LAND,2015,Japan,ON MISSION
+134,135,ATV (All-Terrain Vehicle),LAND,1984,Indonesia,ON MISSION
+135,136,Armored Personnel Carrier,LAND,2013,Spain,FREE
+136,137,APC (Armored Fighting Vehicle),LAND,1999,Australia,FREE
+137,138,Humvee,LAND,1999,United States,ON MISSION
+138,139,Rocket Launcher Truck,LAND,1991,Spain,FREE
+139,140,Armored Personnel Carrier,LAND,1988,Indonesia,FREE
+140,141,ATV (All-Terrain Vehicle),LAND,1996,Canada,FREE
+141,142,Tank,LAND,1980,Australia,FREE
+142,143,Motorcycle,LAND,1996,Canada,FREE
+143,144,Jeep,LAND,2011,Mexico,FREE
+144,145,Jeep,LAND,2004,India,ON MISSION
+145,146,Tank,LAND,2015,Canada,FREE
+146,147,Humvee,LAND,2010,Germany,FREE
+147,148,Rocket Launcher Truck,LAND,1999,China,FREE
+148,149,APC (Armored Fighting Vehicle),LAND,1987,China,FREE
+149,150,Armored Personnel Carrier,LAND,2000,Japan,FREE
+150,151,Tank,LAND,1999,Australia,FREE
+151,152,Humvee,LAND,1983,Australia,FREE
+152,153,Humvee,LAND,2008,Japan,FREE
+153,154,APC (Armored Fighting Vehicle),LAND,2009,South Korea,ON MISSION
+154,155,Armored Personnel Carrier,LAND,2001,Italy,FREE
+155,156,Armored Personnel Carrier,LAND,1985,South Korea,FREE
+156,157,Tank,LAND,2010,India,FREE
+157,158,Armored Personnel Carrier,LAND,1995,Australia,FREE
+158,159,Armored Personnel Carrier,LAND,1990,United Kingdom,FREE
+159,160,Rocket Launcher Truck,LAND,1984,Indonesia,FREE
+160,161,ATV (All-Terrain Vehicle),LAND,2009,Indonesia,FREE
+161,162,Humvee,LAND,1988,Spain,ON MISSION
+162,163,APC (Armored Fighting Vehicle),LAND,2005,United Kingdom,FREE
+163,164,ATV (All-Terrain Vehicle),LAND,1985,Australia,FREE
+164,165,ATV (All-Terrain Vehicle),LAND,1988,Mexico,FREE
+165,166,ATV (All-Terrain Vehicle),LAND,2006,Italy,FREE
+166,167,APC (Armored Fighting Vehicle),LAND,1997,Japan,FREE
+167,168,Jeep,LAND,2018,China,FREE
+168,169,Motorcycle,LAND,2014,Germany,FREE
+169,170,Rocket Launcher Truck,LAND,2016,United Kingdom,FREE
+170,171,Tank,LAND,2018,Italy,FREE
+171,172,Humvee,LAND,1984,Italy,FREE
+172,173,Jeep,LAND,2007,Indonesia,FREE
+173,174,Armored Personnel Carrier,LAND,2003,India,FREE
+174,175,Armored Personnel Carrier,LAND,2020,United States,FREE
+175,176,APC (Armored Fighting Vehicle),LAND,1987,United Kingdom,ON MISSION
+176,177,Armored Personnel Carrier,LAND,2012,India,FREE
+177,178,Tank,LAND,2020,Mexico,FREE
+178,179,Jeep,LAND,1998,Mexico,FREE
+179,180,Motorcycle,LAND,2000,South Korea,FREE
+180,181,Humvee,LAND,2009,Brazil,ON MISSION
+181,182,Armored Personnel Carrier,LAND,2004,United States,ON MISSION
+182,183,Armored Personnel Carrier,LAND,2002,China,FREE
+183,184,Armored Personnel Carrier,LAND,1988,France,FREE
+184,185,Humvee,LAND,2004,United States,FREE
+185,186,Jeep,LAND,2000,Brazil,FREE
+186,187,ATV (All-Terrain Vehicle),LAND,1999,Spain,FREE
+187,188,Jeep,LAND,2008,Germany,FREE
+188,189,Jeep,LAND,2015,Italy,FREE
+189,190,Motorcycle,LAND,2011,Italy,FREE
+190,191,Rocket Launcher Truck,LAND,2007,United States,FREE
+191,192,Armored Personnel Carrier,LAND,2000,Spain,FREE
+192,193,Jeep,LAND,1983,Canada,FREE
+193,194,Rocket Launcher Truck,LAND,1995,China,FREE
+194,195,Jeep,LAND,2012,United States,FREE
+195,196,APC (Armored Fighting Vehicle),LAND,1986,Mexico,FREE
+196,197,Armored Personnel Carrier,LAND,2007,Mexico,FREE
+197,198,ATV (All-Terrain Vehicle),LAND,1989,India,FREE
+198,199,ATV (All-Terrain Vehicle),LAND,1990,Mexico,FREE
+199,200,Armored Personnel Carrier,LAND,2019,United Kingdom,FREE
+200,201,Motorcycle,LAND,1993,Germany,FREE
+201,202,APC (Armored Fighting Vehicle),LAND,2019,Canada,FREE
+202,203,ATV (All-Terrain Vehicle),LAND,1993,Spain,FREE
+203,204,Armored Personnel Carrier,LAND,1998,Indonesia,FREE
+204,205,Humvee,LAND,1993,South Korea,FREE
+205,206,ATV (All-Terrain Vehicle),LAND,1988,United Kingdom,FREE
+206,207,Armored Personnel Carrier,LAND,2017,Italy,FREE
+207,208,Jeep,LAND,2020,India,FREE
+208,209,Armored Personnel Carrier,LAND,1984,Italy,FREE
+209,210,Rocket Launcher Truck,LAND,1993,Mexico,FREE
+210,211,ATV (All-Terrain Vehicle),LAND,2000,China,FREE
+211,212,Motorcycle,LAND,1987,South Korea,FREE
+212,213,Motorcycle,LAND,2005,France,FREE
+213,214,Tank,LAND,2005,Indonesia,FREE
+214,215,Tank,LAND,2007,Germany,FREE
+215,216,Armored Personnel Carrier,LAND,2015,Germany,FREE
+216,217,Rocket Launcher Truck,LAND,2018,Brazil,FREE
+217,218,Armored Personnel Carrier,LAND,2003,India,FREE
+218,219,APC (Armored Fighting Vehicle),LAND,1983,Canada,FREE
+219,220,Rocket Launcher Truck,LAND,1990,United States,FREE
+220,221,APC (Armored Fighting Vehicle),LAND,1991,Australia,FREE
+221,222,APC (Armored Fighting Vehicle),LAND,2003,Spain,FREE
+222,223,Jeep,LAND,1999,South Korea,FREE
+223,224,Motorcycle,LAND,1997,France,FREE
+224,225,Tank,LAND,1997,Germany,FREE
+225,226,Humvee,LAND,1980,Mexico,FREE
+226,227,Jeep,LAND,1981,Germany,FREE
+227,228,Jeep,LAND,2020,Indonesia,FREE
+228,229,Armored Personnel Carrier,LAND,2010,Spain,FREE
+229,230,ATV (All-Terrain Vehicle),LAND,2000,Italy,ON MISSION
+230,231,Tank,LAND,1991,France,FREE
+231,232,Motorcycle,LAND,2020,Australia,FREE
+232,233,Armored Personnel Carrier,LAND,1997,India,FREE
+233,234,Tank,LAND,1996,Indonesia,FREE
+234,235,APC (Armored Fighting Vehicle),LAND,1998,China,FREE
+235,236,Jeep,LAND,1999,Australia,FREE
+236,237,Rocket Launcher Truck,LAND,2009,Germany,FREE
+237,238,Tank,LAND,1982,United States,FREE
+238,239,ATV (All-Terrain Vehicle),LAND,2012,Australia,FREE
+239,240,Jeep,LAND,2006,Spain,ON MISSION
+240,241,APC (Armored Fighting Vehicle),LAND,1998,Italy,FREE
+241,242,APC (Armored Fighting Vehicle),LAND,1999,Italy,FREE
+242,243,Tank,LAND,1988,Indonesia,ON MISSION
+243,244,Tank,LAND,1980,United Kingdom,FREE
+244,245,Tank,LAND,2013,United States,FREE
+245,246,Rocket Launcher Truck,LAND,2002,United Kingdom,ON MISSION
+246,247,Humvee,LAND,1999,India,FREE
+247,248,ATV (All-Terrain Vehicle),LAND,2013,France,FREE
+248,249,Rocket Launcher Truck,LAND,2001,China,FREE
+249,250,Tank,LAND,1992,Australia,FREE
+250,251,Tank,LAND,1991,Germany,FREE
+251,252,Rocket Launcher Truck,LAND,2018,Mexico,FREE
+252,253,ATV (All-Terrain Vehicle),LAND,1996,United Kingdom,FREE
+253,254,Humvee,LAND,1982,United States,FREE
+254,255,Motorcycle,LAND,2020,Mexico,FREE
+255,256,Rocket Launcher Truck,LAND,1980,India,FREE
+256,257,Humvee,LAND,2011,United Kingdom,FREE
+257,258,Jeep,LAND,1985,United States,FREE
+258,259,Humvee,LAND,2007,Australia,FREE
+259,260,APC (Armored Fighting Vehicle),LAND,2007,India,FREE
+260,261,Jeep,LAND,1998,Australia,FREE
+261,262,APC (Armored Fighting Vehicle),LAND,1996,United Kingdom,FREE
+262,263,Humvee,LAND,1994,Spain,FREE
+263,264,Tank,LAND,2017,United Kingdom,FREE
+264,265,Motorcycle,LAND,2002,India,FREE
+265,266,Rocket Launcher Truck,LAND,1989,France,FREE
+266,267,APC (Armored Fighting Vehicle),LAND,1986,South Korea,FREE
+267,268,Rocket Launcher Truck,LAND,1988,United Kingdom,FREE
+268,269,Motorcycle,LAND,1993,Spain,FREE
+269,270,ATV (All-Terrain Vehicle),LAND,1980,United Kingdom,FREE
+270,271,Tank,LAND,2001,Brazil,FREE
+271,272,Humvee,LAND,1986,India,FREE
+272,273,Tank,LAND,1986,Brazil,FREE
+273,274,Armored Personnel Carrier,LAND,2020,China,FREE
+274,275,APC (Armored Fighting Vehicle),LAND,1999,United Kingdom,FREE
+275,276,Jeep,LAND,2005,Australia,FREE
+276,277,APC (Armored Fighting Vehicle),LAND,1981,United States,FREE
+277,278,Motorcycle,LAND,2003,Spain,FREE
+278,279,APC (Armored Fighting Vehicle),LAND,1981,India,FREE
+279,280,Rocket Launcher Truck,LAND,2000,India,FREE
+280,281,Humvee,LAND,2011,South Korea,FREE
+281,282,APC (Armored Fighting Vehicle),LAND,2016,Italy,FREE
+282,283,Motorcycle,LAND,2017,Japan,FREE
+283,284,ATV (All-Terrain Vehicle),LAND,1999,Spain,FREE
+284,285,Motorcycle,LAND,2006,Indonesia,FREE
+285,286,Armored Personnel Carrier,LAND,2018,France,FREE
+286,287,Rocket Launcher Truck,LAND,2003,India,ON MISSION
+287,288,Rocket Launcher Truck,LAND,1998,Germany,FREE
+288,289,Armored Personnel Carrier,LAND,2007,Mexico,FREE
+289,290,Motorcycle,LAND,2016,France,FREE
+290,291,Rocket Launcher Truck,LAND,1990,Canada,FREE
+291,292,Jeep,LAND,2019,United States,FREE
+292,293,Motorcycle,LAND,1994,Mexico,ON MISSION
+293,294,Armored Personnel Carrier,LAND,2012,Japan,FREE
+294,295,Armored Personnel Carrier,LAND,1997,Italy,ON MISSION
+295,296,Rocket Launcher Truck,LAND,2017,Canada,FREE
+296,297,Humvee,LAND,2006,Indonesia,FREE
+297,298,ATV (All-Terrain Vehicle),LAND,1999,United States,FREE
+298,299,Rocket Launcher Truck,LAND,1997,Brazil,ON MISSION
+299,300,Rocket Launcher Truck,LAND,2009,South Korea,FREE
+300,301,Rocket Launcher Truck,LAND,1980,Japan,FREE
+301,302,ATV (All-Terrain Vehicle),LAND,2012,United Kingdom,FREE
+302,303,Tank,LAND,1981,Italy,FREE
+303,304,Tank,LAND,2015,Brazil,FREE
+304,305,Jeep,LAND,2003,South Korea,FREE
+305,306,Humvee,LAND,1998,France,FREE
+306,307,Humvee,LAND,1998,China,FREE
+307,308,Motorcycle,LAND,1986,Mexico,FREE
+308,309,Armored Personnel Carrier,LAND,1980,United States,FREE
+309,310,Rocket Launcher Truck,LAND,2001,United States,FREE
+310,311,Motorcycle,LAND,1980,Spain,FREE
+311,312,Motorcycle,LAND,2010,South Korea,FREE
+312,313,Jeep,LAND,2012,South Korea,FREE
+313,314,Tank,LAND,2020,France,FREE
+314,315,Humvee,LAND,1994,Italy,FREE
+315,316,APC (Armored Fighting Vehicle),LAND,1994,India,FREE
+316,317,Tank,LAND,1987,Spain,FREE
+317,318,Rocket Launcher Truck,LAND,2016,France,FREE
+318,319,ATV (All-Terrain Vehicle),LAND,2006,South Korea,FREE
+319,320,Motorcycle,LAND,2017,United Kingdom,FREE
+320,321,APC (Armored Fighting Vehicle),LAND,1989,Indonesia,FREE
+321,322,Motorcycle,LAND,1988,China,FREE
+322,323,Tank,LAND,2007,India,FREE
+323,324,ATV (All-Terrain Vehicle),LAND,2002,South Korea,FREE
+324,325,APC (Armored Fighting Vehicle),LAND,2011,United Kingdom,ON MISSION
+325,326,ATV (All-Terrain Vehicle),LAND,1983,Canada,FREE
+326,327,Jeep,LAND,1984,Brazil,FREE
+327,328,Motorcycle,LAND,1993,South Korea,FREE
+328,329,Jeep,LAND,1980,Spain,FREE
+329,330,Jeep,LAND,1994,United States,FREE
+330,331,Motorcycle,LAND,1988,Mexico,FREE
+331,332,Armored Personnel Carrier,LAND,2008,Mexico,FREE
+332,333,APC (Armored Fighting Vehicle),LAND,2003,Canada,FREE
+333,334,Rocket Launcher Truck,LAND,1981,Canada,FREE
+334,335,Jeep,LAND,1996,Mexico,FREE
+335,336,APC (Armored Fighting Vehicle),LAND,2020,Italy,FREE
+336,337,Armored Personnel Carrier,LAND,2005,China,FREE
+337,338,ATV (All-Terrain Vehicle),LAND,2017,Indonesia,FREE
+338,339,Rocket Launcher Truck,LAND,2018,China,FREE
+339,340,Jeep,LAND,1989,Germany,FREE
+340,341,Jeep,LAND,1986,China,FREE
+341,342,Humvee,LAND,2013,United States,FREE
+342,343,Armored Personnel Carrier,LAND,2009,Brazil,FREE
+343,344,Jeep,LAND,1984,India,FREE
+344,345,Rocket Launcher Truck,LAND,1985,Indonesia,FREE
+345,346,APC (Armored Fighting Vehicle),LAND,2004,India,FREE
+346,347,Tank,LAND,2009,Australia,FREE
+347,348,Tank,LAND,2014,Spain,FREE
+348,349,Humvee,LAND,1984,Japan,FREE
+349,350,APC (Armored Fighting Vehicle),LAND,1981,India,FREE
